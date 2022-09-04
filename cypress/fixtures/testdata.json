@@ -1,0 +1,9 @@
+{
+ "firstName":"Test",
+ "lastName":"Quality",
+ "mailId":"aaaa88888",
+ "expectedContactUsPageTitle":"Contact Us - i6 Group",
+ "expectedHomePageTitle":"i6 Group - Aviation Fuel Management Software",
+ "expectedAboutPageTitle":"About - i6 Group"
+
+}
